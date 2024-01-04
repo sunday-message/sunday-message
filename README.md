@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunday-message
 - 👀 I’m interested in ai and new technologies
-- 🌱 I’m currently learning framework7 and react
+- 🌱 I’m currently learning react
 - 📫 How to reach me : sundaymessageteam@icloud.com
 
 <!---
